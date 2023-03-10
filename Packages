@@ -465,6 +465,44 @@ Priority: important
 Homepage: http://www.samba.org/rsync/
 Description: synchronize files between computers
 
+Package: ru.rj.ftt
+Version: 0.8
+Architecture: iphoneos-arm
+Maintainer: Randy420 <randy.skinner@hotmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
+Filename: ./debs/ru.rj.ftt_0.8_iphoneos-arm.deb
+Size: 20044
+MD5sum: f039a114d589484b7e537414945bc218
+SHA1: c45f600f15a6f58a376ad6aab95bf1fc5e81b304
+SHA256: 01f88c436f5c431e7575c09268463545166a6f86b310d52b4b9d468713043324
+Section: Utilities
+Homepage: https://theemeraldisle.family
+Description: 终端输入ftt命令
+Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
+Depiction: https://Randy-420.GitHub.io/depic/ftt.html
+Name: Flex3转Theos
+
+Package: ru.rj.ftt
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Randy420 <randy.skinner@hotmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
+Filename: ./debs/ru.rj.ftt_1.1_iphoneos-arm.deb
+Size: 20308
+MD5sum: 4ffaa4e61a626adc60a85c0364fa783b
+SHA1: 50a41d92a26c839ba630428d1f4823730c51cef3
+SHA256: 3f97dff783bf97a65fc988180d814e7107e181e9d6338bb086cf4eb5d186414b
+Section: 自用插件
+Homepage: https://theemeraldisle.family
+Description: arm64e设备下载0.8版，终端输入ftt命令
+Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
+Depiction: https://Randy-420.GitHub.io/depic/ftt.html
+Name: Flex3转Theos
+
 Package: sqlite3
 Version: 3.24.0-1
 Architecture: iphoneos-arm
@@ -488,10 +526,10 @@ Architecture: iphoneos-arm
 Maintainer: zlw555
 Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, mterminal
 Filename: ./debs/theos_3.0_iphoneos-arm.deb
-Size: 528980
-MD5sum: 820a374490e7377328c3ff67f81f7038
-SHA1: b84f5718cf25f28dacc61474cc4fb53d5e403300
-SHA256: 611645c42e6e90851696c53ba22af2568d7c9cd7b43dd2cdb2e691b410401c47
+Size: 986098
+MD5sum: 0ecd7f7edc4439643e06ad87fca32edd
+SHA1: bbd3304979c9726808a7d7ed51774349160c94ec
+SHA256: 172491f4735f70c1408ae6ce64edb64329d5c9a130bba3f62e55f5ab8980d3d8
 Section: Scripting
 Description: np新键，mp打包，m编译
 Author: zlw555
