@@ -1,18 +1,28 @@
 {
-  "name": "Jen Su's TrollStore 插件源",
-  "identifier": "cc.jennas.repo",
-  "description": "提供精選 TrollStore 插件。",
-  "version": "1.0",
+  "repository_name": "自由的风仓库",
+  "repository_icon": "https://raw.githubusercontent.com/zlw555/thoes/master/repo-icon.png",
   "packages": [
     {
-      "name": "測試插件",
-      "bundleID": "cc.jennas.testplugin",
-      "developer": "Jen Su",
-      "version": "1.0.0",
-      "description": "測試用 tipa 檔。",
-      "icon": "https://raw.githubusercontent.com/jenccc/Ipa/main/icon/test.png",
-      "trollstore": true,
-      "url": "https://zf.jennas.cc/pd/1/test.tipa"
+      "name": "喜马拉雅",
+      "version": "1.1",
+      "description": "最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利。",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/xmlyad.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/thoes/refs/heads/master/downloads/ximalaya.deb",
+      "section": "Tweaks",
+      "size": "4kb",
+      "author": "zlw555",
+      "screenshots": []
+    },
+    {
+      "name": "喜马拉雅极速版去后台启动",
+      "version": "v1.6.7",
+      "description": "终于去掉后台启动广告了。3.0.34配合圈x vip。",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/xmlyajsb.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/thoes/master/downloads/tingliteqad.deb",
+      "section": "Tweaks",
+      "size": "3kb",
+      "author": "zlw555",
+      "screenshots": []
     }
   ]
-}
+} 
