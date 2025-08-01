@@ -57,18 +57,9 @@
     {
       "name": "TrollFools_3.7-42-HBB订制版H",
       "version": "8.1",
-      "description": "必看-必看-必看
-      
-      此工具只针对巨魔用户
-
-      1.请先安装HBB专用巨魔注入器（巨魔注入器H）
+      "description": "1.请先安装HBB专用巨魔注入器（巨魔注入器H）
       2.使用专用巨魔注入器H，将HBB无后台推送插件(版本8.1+)注入到商店版微信中
-      3.重启手机才可以正常有后台+无后台推送带图(经过多位用户验证)
-
-      注意：
-      需要开启消息详情才能带图（微信-我的-设置-消息通知-通知显示内容）
-
-      偶现注入后没有消息推送，可以在系统设置中找到微信，开关一次通知权限可以解决，或者重启一下手机",
+      3.重启手机才可以正常有后台+无后台推送带图(经过多位用户验证)",
       "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/tencent.png",
       "dylib": "https://pan.wepush.top/d/%E5%B7%A8%E9%AD%94%E7%89%88(%E5%95%86%E5%BA%97%E5%BE%AE)%E6%8E%A8%E9%80%81%E5%B8%A6%E5%9B%BE%E6%8F%92%E4%BB%B6/TrollFools_3.7-42-HBB%E8%AE%A2%E5%88%B6%E7%89%88H.tipa?sign=F3QRaE80ga-vbWkm6OcAtx_z-Z_1aUIcPYN55jnLngQ=:0",
       "section": "应用",
