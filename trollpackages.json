@@ -29,7 +29,7 @@
       "version": "2.55.2",
       "description": "香色闺阁",
       "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/StandarReader.png",
-      "dylib": "https://raw.githubusercontent.com/zlw555/thoes/master/downloads/香色闺阁.ipa",
+      "dylib": "https://raw.githubusercontent.com/zlw555/thoes/master/downloads/StandarReader.ipa",
       "section": "应用",
       "size": "2.2MB",
       "author": "",
@@ -38,22 +38,11 @@
     {
       "name": "HBB无后台推送+推送带图",
       "version": "8.1",
-      "description": "请先安装HBB专用巨魔注入器（巨魔注入器H）。       1.实现多开wx无后台推送，即划掉app也可以正常接收推送消息           2.推送的时候显示推送详情           3.将本插件注入到Frameworks/ProtobufLite.framework/ProtobufLite的依赖中，可以激活微信Plugins组件的所有功能(要求appGroup权限至少4个，否则容易串号)           4.Frameworks只保留ProtobufLite.framework，其它的移到新建的文件夹，就可以用普通巨魔注入器注入了           5.在iOS系统设置中找到当前多开，关闭消息通知并重新打开，然后启动app等待30秒后划掉，然后查看是否有推送                                        6.上述方法无用的情况下，请安装无后台推送检测插件                           7.第一次注入要重启生效",
+      "description": "附件是HBB网盘地址",
       "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/tencent.png",
-      "dylib": "https://pan.wepush.top/d/%E5%B7%A8%E9%AD%94%E7%89%88(%E5%95%86%E5%BA%97%E5%BE%AE)%E6%8E%A8%E9%80%81%E5%B8%A6%E5%9B%BE%E6%8F%92%E4%BB%B6/HBB%E6%97%A0%E5%90%8E%E5%8F%B0%E6%8E%A8%E9%80%81_8.1.zip?sign=T5SeEb-4dqA3wiy_ib2pTLPtYyv8oCjW6zOU2GmTtfI=:0",
+      "dylib": "https://raw.githubusercontent.com/zlw555/thoes/master/downloads/readme.txt",
       "section": "Tweaks",
       "size": "3.91MB",
-      "author": "",
-      "screenshots": []
-    },
-    {
-      "name": "TrollFools_3.7-42-HBB订制版H",
-      "version": "8.1",
-      "description": "1.请先安装HBB专用巨魔注入器（巨魔注入器H）           2.使用专用巨魔注入器H，将HBB无后台推送插件(版本8.1+)注入到商店版微信中           3.重启手机才可以正常有后台+无后台推送带图(经过多位用户验证)",
-      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/TrollFools.png",
-      "dylib": "https://pan.wepush.top/d/%E5%B7%A8%E9%AD%94%E7%89%88(%E5%95%86%E5%BA%97%E5%BE%AE)%E6%8E%A8%E9%80%81%E5%B8%A6%E5%9B%BE%E6%8F%92%E4%BB%B6/TrollFools_3.7-42-HBB%E8%AE%A2%E5%88%B6%E7%89%88H.tipa?sign=F3QRaE80ga-vbWkm6OcAtx_z-Z_1aUIcPYN55jnLngQ=:0",
-      "section": "应用",
-      "size": "5.75MB",
       "author": "",
       "screenshots": []
     }
