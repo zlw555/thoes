@@ -1,27 +1,27 @@
 {
-  "repository_name": "宝藏巨魔仓库",
+  "repository_name": "自由的风仓库",
   "repository_icon": "https://iosrxwy.github.io/TrollFools/repo-icon.png",
   "packages": [
     {
-      "name": "TGMask",
-      "version": "v1.0.0",
-      "description": "一个伪装插件，输入当前时间进入解锁进入Telegram。",
+      "name": "喜马拉雅",
+      "version": "2.7.6",
+      "description": "最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利。",
       "icon_url": "https://iosrxwy.github.io/TrollFools/icons/tgmask-icon.png",
       "dylib": "https://iosrxwy.github.io/TrollFools/downloads/tgmask.dylib",
       "section": "Tweaks",
-      "size": "1.5MB",
-      "author": "iosrxwy",
+      "size": "4kb",
+      "author": "zlw555",
       "screenshots": []
     },
     {
-      "name": "BZhelper",
+      "name": "喜马拉雅极速版去后台启动",
       "version": "v1.6.7",
-      "description": "宝藏广告助手，广告加速、广告屏蔽，等等。",
+      "description": "终于去掉后台启动广告了。3.0.34配合圈x vip。",
       "icon_url": "https://iosrxwy.github.io/TrollFools/icons/bzhelper-icon.png",
       "dylib": "https://iosrxwy.github.io/TrollFools/downloads/bzhelper.dylib",
       "section": "Tweaks",
-      "size": "1.8MB",
-      "author": "iosrxwy",
+      "size": "3kb",
+      "author": "zlw555",
       "screenshots": []
     },
     {
