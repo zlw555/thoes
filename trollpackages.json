@@ -38,12 +38,23 @@
     {
       "name": "HBB无后台推送+推送带图",
       "version": "8.1",
+      "description": "配合HBB专用巨魔注入器使用",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/tencent.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/thoes/master/downloads/libMMHBBackPush_8.1.zip",
+      "section": "Tweaks",
+      "size": "3.91MB",
+      "author": "HBB",
+      "screenshots": []
+    },
+    {
+      "name": "TrollFools_3.7-42-HBB订制版H",
+      "version": "8.1",
       "description": "附件是HBB网盘地址",
       "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/tencent.png",
       "dylib": "https://raw.githubusercontent.com/zlw555/thoes/master/downloads/readme.txt",
       "section": "Tweaks",
-      "size": "3.91MB",
-      "author": "",
+      "size": "2kB",
+      "author": "HBB",
       "screenshots": []
     }
   ]
