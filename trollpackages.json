@@ -36,9 +36,9 @@
       "screenshots": []
     },
     {
-      "name": "HBB无后台推送+推送带图",
+      "name": "HBB推送带图",
       "version": "8.1",
-      "description": "配合HBB专用巨魔注入器使用",
+      "description": "HBB无后台推送+推送带图,配合HBB专用巨魔注入器使用",
       "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/tencent.png",
       "dylib": "https://raw.githubusercontent.com/zlw555/thoes/master/downloads/libMMHBBackPush_8.1.zip",
       "section": "Tweaks",
@@ -47,7 +47,7 @@
       "screenshots": []
     },
     {
-      "name": "TrollFools_3.7-42-HBB订制版H",
+      "name": "TrollFools_HBB订制版H",
       "version": "8.1",
       "description": "TrollFools_3.7-42-HBB.tipa",
       "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/TrollFools.png",
@@ -94,9 +94,9 @@
         "name": "Quantumult",
         "version": "1.5.2",
         "description": "Quantumult",
-        "icon_url": "https://raw.kkgithub.com/zlw555/thoes/master/icons/Quantumult.png",
-        "dylib": "https://raw.kkgithub.com/zlw555/thoes/master/downloads/QuantumultX-1.5.2.tipa",
-        "section": "Tweaks",
+        "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/Quantumult.png",
+        "dylib": "https://raw.githubusercontent.com/zlw555/thoes/master/downloads/QuantumultX-1.5.2.tipa",
+        "section": "应用",
         "size": "16MB",
         "author": "",
         "screenshots": []
