@@ -83,7 +83,7 @@
       "name": "起点读书",
       "version": "1.5",
       "description": "2014年2月5日，支持最新5.9.333",
-      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/qidiandushu.png",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/qidian.png",
       "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/qidianqad_1.5_iphoneos-arm.deb",
       "section": "Tweaks",
       "size": "152kB",
