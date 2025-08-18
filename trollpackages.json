@@ -25,6 +25,39 @@
       "screenshots": []
     },
     {
+      "name": "酷我音乐去后台启动",
+      "version": "1.0",
+      "description": "酷我音乐去后台启动",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/kwtg.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/kwyx_1.0_iphoneos-arm.deb",
+      "section": "Tweaks",
+      "size": "3kb",
+      "author": "zlw555",
+      "screenshots": []
+    },
+    {
+      "name": "懒人听书后台启动",
+      "version": "1.1",
+      "description": "懒人听书后台启动",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/lrts.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/lrds_1.0_iphoneos-arm.deb",
+      "section": "Tweaks",
+      "size": "3kb",
+      "author": "zlw555",
+      "screenshots": []
+    },
+    {
+      "name": "微信系统伪装18.5",
+      "version": "1.1",
+      "description": "微信伪装系统版本号为18.5，配合8.0.55以上微信开callkit",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/tencent.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/thoes/master/downloads/wxcallkit_1.1_iphoneos-arm.deb",
+      "section": "Tweaks",
+      "size": "3kb",
+      "author": "zlw555",
+      "screenshots": []
+    },
+    {
       "name": "香色闺阁",
       "version": "2.55.2",
       "description": "香色闺阁",
