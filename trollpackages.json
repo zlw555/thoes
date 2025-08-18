@@ -37,7 +37,7 @@
     },
     {
       "name": "懒人听书后台启动",
-      "version": "1.1",
+      "version": "1.0",
       "description": "懒人听书后台启动",
       "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/lrts.png",
       "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/lrds_1.0_iphoneos-arm.deb",
