@@ -51,7 +51,7 @@
       "version": "1.1",
       "description": "微信伪装系统版本号为18.5，配合8.0.55以上微信开callkit",
       "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/tencent.png",
-      "dylib": "https://raw.githubusercontent.com/zlw555/thoes/master/downloads/wxcallkit_1.1_iphoneos-arm.deb",
+      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/wxcallkit_1.1_iphoneos-arm.deb",
       "section": "Tweaks",
       "size": "3kb",
       "author": "zlw555",
