@@ -102,14 +102,14 @@
       "screenshots": []
     },
     {
-      "name": "威锋VIP",
-      "version": "7.0。3",
-      "description": "去除你能看到的所有广告，基于威锋7.0开发！通杀威锋7.0.1及之后的版本！FuckYourAds！去广告!还你干净体验！开启会员功能!点亮会员头像!更新支持7.0.3",
+      "name": "威锋",
+      "version": "1.2",
+      "description": "去除广告，基于威锋7.0.8开发",
       "icon_url": "https://raw.githubusercontent.com/zlw555/repo/master/icons/feng.png",
       "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/rootful/feng.deb",
       "section": "Tweaks",
       "size": "868kB",
-      "author": "小果子",
+      "author": "z",
       "screenshots": []
     },
     {
